@@ -14,7 +14,7 @@ Backend project using Node.js, Knex, and Express for WeLoveMovies application th
 * Write database queries to complete CRUD routes in an Express server.
 * Return joined and nested data with Knex.
 * Write database migrations using Knex's migration tools.
-* Deploy back end server to a cloud service.
+
 
 ## Installation
 
